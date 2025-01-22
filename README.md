@@ -27,3 +27,5 @@ C:\mmlib Then in the Libraries field below enter: - winmm, click on apply and ok
 Configuring The Windows Sounds To Play The compiler will use the Windows libraries in order to play the wav files for this project, they point at a specific file 
 location in the main.cpp as per below:- PlaySound(TEXT("C://yourfilepath"),NULL, SND_FILENAME| SND_ASYNC), ammend the main.cpp to reflect your loaction if you want 
 to play sound in the program, otherwise the standard windows no file found sound will play momentatrily as the program executes.
+
+WARNING USING THIS PROGRAM WILL MAKE YOU FEEL MUCH MORE POSITIVE :) POSTIVE PEOPLE PROSPER
