@@ -4,20 +4,17 @@ This is one of my first Modern C++ projects.
 
 The program prompts the user to add journal entries with options of some defined prefixes as illustrated below: -
 
-*************************************************" 
-**     WELCOME TO YOUR POSITIVITY TRACKER      **" 
-**        ENTER YOUR DAILY LOGS BELOW          **" 
-**        PREFIX EACH OF YOUR ENTRIES          **" 
-**        WITH THE FOLLOWING KEYWORDS:-        **" 
-**        POSITIVE NOTE:                       **" 
-**        GRATITUE NOTE:                       **" 
-**        KINDNESS NOTE:                       **" 
-**        ACCOMPLISHMENT NOTE:                 **" 
-**        REALISED GOAL:                       **" 
-**        REALISED DREAM:                      **" 
-**                                             **" 
-**     TO EXIT TYPE END AND HIT RETURN         **" 
-*************************************************"
+POSITIVE NOTE:
+
+GRATITUE NOTE:
+
+KINDNESS NOTE:
+
+CCOMPLISHMENT NOTE:
+
+REALISED GOAL:
+
+REALISED DREAM:
 
 The entries are then output to a text file using the date and time stamp from the local Windows operating system.
 
